@@ -23,13 +23,17 @@ a:hover {
   color: #01002E;
 }
 
+p {
+  margin-bottom: 20px;
+}
+
 .image-circle {
   border-radius: 50%;
 }
 
 .card {
   padding: 30px;
-  margin: 40px 40px;
+  margin: 40px 0px;
   background-color: #FFFF;
   border-style: none;
   border-radius: 15px;
@@ -43,10 +47,10 @@ a:hover {
 }
 
 .button-blue {
-  margin: 20px 20px;
+  margin: 20px;
+  padding: 15px;
   background-color: #3372CC;
   color: white;
-  padding: 15px 20px;
   border-radius: 4px;
   text-decoration: none;
 }
